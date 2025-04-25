@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **VocaliQ-Lab**  
 **VocaliQ-Lab** is an advanced open-source research lab featuring 30+ cutting-edge **speech, audio, and music AI projects**. Built for researchers, engineers, and enthusiasts, it blends deep learning with sound to push the frontier of audio intelligence.
 
@@ -58,3 +59,7 @@ A one-stop suite for building, testing, and deploying **AI-driven audio systems*
 
 We’re building the future of Audio AI. Contributions, collaborations, and feedback are welcome!  
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+=======
+# VocaliQ-Lab
+VocaliQ-Lab is an advanced open-source suite for building, testing, and deploying cutting-edge speech, audio, and music AI applications. Designed for researchers, engineers, and enthusiasts, this lab merges deep learning with sound to push the boundaries of human-computer audio interaction.
+>>>>>>> dcae9c7cc4f837b3147b05b2595be181128992f5
