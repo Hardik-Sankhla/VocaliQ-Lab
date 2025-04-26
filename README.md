@@ -1,3 +1,5 @@
+<img src="F:\VocaliQ-Lab\docs\diagrams\VocaliQLab Banner.png" alt="AI ML DS DL Banner" style="width:100%;">
+
 # **VocaliQ-Lab**  
 **VocaliQ-Lab** is an advanced open-source research lab featuring 30+ cutting-edge **speech, audio, and music AI projects**. Built for researchers, engineers, and enthusiasts, it blends deep learning with sound to push the frontier of audio intelligence.
 
