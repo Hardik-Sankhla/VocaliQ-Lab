@@ -1,6 +1,11 @@
-<img src="F:\VocaliQ-Lab\docs\diagrams\VocaliQLab Banner.png" alt="AI ML DS DL Banner" style="width:100%;">
 
-# **VocaliQ-Lab**  
+<h1 align="center">✨ VocaliQ-Lab</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hardik-Sankhla/VocaliQ-Lab/main/docs/diagrams/VocaliQLab%20Banner.png" alt="VocaliQ-Lab Banner">
+</p>
+
+### **VocaliQ-Lab**  
 **VocaliQ-Lab** is an advanced open-source research lab featuring 30+ cutting-edge **speech, audio, and music AI projects**. Built for researchers, engineers, and enthusiasts, it blends deep learning with sound to push the frontier of audio intelligence.
 
 ---
@@ -124,7 +129,51 @@ VocaliQ-Lab/
 ```
 
 ---
+## 👤 Author
 
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hardik-Sankhla&data=followers,repositories,stars,commits&theme=dracula)](https://github.com/Hardik-Sankhla/)
+
+**Hardik Sankhla**  
+🎓 Data Science Student | ☁️ AWS & Frontend Developer | 🌟 Open Source Contributor  
+> _"Passion fuels innovation. Every project is a step towards a better tomorrow."_ 🚀
+
+
+<div align="center">
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
+  </a>
+  <a href="https://twitter.com/hardik_sankhla">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hardik-sankhla"><img src="https://img.shields.io/badge/LinkedIn-Hardik%20Sankhla-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Hardik-Sankhla"><img src="https://img.shields.io/badge/GitHub-Hardik%20Sankhla-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:datascientist.hardiksankhla@email.com"><img src="https://img.shields.io/badge/Email-datascientist.hardiksankhla%40email.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://dataxhardik.wixsite.com/myportfolio"><img src="https://img.shields.io/badge/Portfolio-Hardik%20Sankhla-ff69b4?style=for-the-badge&logo=appveyor" alt="Portfolio"></a>
+</p>
+
+📝 [PeerList](https://peerlist.io/hardiksankhla) | ✉️ [Email Me](mailto:datascientist.hardikSankhla@gmail.com)
+
+</div>
+
+<br>
+
+<p align="left">I'm Hardik Sankhla from Jodhpur, I am a passionate software developer with a keen interest in building scalable and efficient applications. I enjoy working with modern web technologies and continuously learning new things to enhance my skills. <br><br>
+
+- 🔭 I’m working as AI Intern at Gyan Netra<br>
+- 📚 I'm currently learning Generative AI <br>
+- ⚡ In my free time, I explore AI Agents & Agentic AI<br>
+- 🎓 Data Science student at JIET Institute of Design and Technology<br>
+- 💼 Skilled in Data Analytics, Visualization, ML, and Cloud Computing<br>
+- 💡 Eager to contribute innovative solutions in both Data Science and Cloud domains<br>
+- 🌱 Currently learning advanced concepts in Deep Learning
+</p>
+
+---
 
 ## 📘 Documentation
 
@@ -147,3 +196,6 @@ VocaliQ-Lab/
 
 We’re building the future of Audio AI. Contributions, collaborations, and feedback are welcome!  
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
+
+---
