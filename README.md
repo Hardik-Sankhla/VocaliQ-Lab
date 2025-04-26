@@ -136,8 +136,8 @@ VocaliQ-Lab/
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hardik-Sankhla&data=followers,repositories,stars,commits&theme=dracula)](https://github.com/Hardik-Sankhla/)
 
 **Hardik Sankhla**  
-🎓 Data Science Student | ☁️ AWS & Frontend Developer | 🌟 Open Source Contributor  
-> _"Passion fuels innovation. Every project is a step towards a better tomorrow."_ 🚀
+🎓 Data Science Student - AI & ML Engineer | 🌟 Open Source Contributor | Oracle Certified OCI Generative AI Professional | OCI Foundation Associate | OCI DATA Associate | OCI AI Associate 
+
 
 
 <div align="center">
