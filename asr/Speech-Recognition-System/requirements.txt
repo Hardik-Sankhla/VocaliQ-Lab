@@ -1,0 +1,11 @@
+SpeechRecognition
+PyAudio
+gradio
+soundfile
+pydub
+ffmpeg
+ffmpeg-python
+streamlit 
+moviepy
+matplotlib
+ipywidgets
