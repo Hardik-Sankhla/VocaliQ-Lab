@@ -178,7 +178,24 @@ VocaliQ-Lab/
 
 ## 📘 Documentation
 
-👉 Visit the official docs and tutorials: [yourusername.github.io/vocaliq-lab](https://yourusername.github.io/vocaliq-lab)
+## 📘 Documentation
+
+VocaliQ-Lab is a modular, open-source lab of audio and speech AI projects focused on building production-grade tools for voice-based applications. The repository is structured as a "super repo" containing multiple submodules and experimental pipelines for:
+
+- 🗣️ **Speech-to-Text (ASR)**: Real-time and batch transcription using open-source ASR models.
+- 🔊 **Text-to-Speech (TTS)**: Natural and expressive voice synthesis with a variety of neural TTS engines.
+- 🔁 **Audio-to-Audio**: Voice conversion, enhancement, and transformation pipelines.
+- 🤖 **Conversational Agents**: Call management AI agents capable of real-time dialogue, transcription, and response generation.
+- 📊 **Voice Analytics**: Tools for extracting and visualizing insights from spoken data.
+
+Each module is independently runnable, testable, and includes:
+- A clear project README.
+- API or command-line interfaces.
+- Pretrained models or model integration instructions.
+- Deployment guides where applicable.
+
+👉 **Browse the official docs and tutorials**: [yourusername.github.io/vocaliq-lab](https://yourusername.github.io/vocaliq-lab)
+
 
 ---
 
@@ -200,5 +217,3 @@ Check out [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 
 ---
-F i x   f o r   s t r e a k  
- 
