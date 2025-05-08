@@ -1,0 +1,9 @@
+# requirements.txt
+fastapi
+uvicorn
+streamlit
+pydub
+requests
+pydantic
+ffmpeg-python
+openai-whisper
