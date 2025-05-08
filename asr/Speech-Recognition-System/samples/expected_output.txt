@@ -1,0 +1,3 @@
+(venv) PS F:\VocaliQ-Lab\asr\basic_asr> python main.py     
+Please say something...
+You said: hello am I audible hello hello hello hello
