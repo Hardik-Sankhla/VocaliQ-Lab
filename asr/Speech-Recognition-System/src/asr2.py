@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 #src/asr.py
 
 import speech_recognition as sr
 from .utils import process_audio  # Import the utility function
+=======
+import speech_recognition as sr
+from utils import process_audio  # Absolute import, ensure `utils.py` is in the same directory as `asr2.py`
+>>>>>>> f86ad24
 
 def recognize_speech(use_microphone=True, audio_file_path=None):
     """
@@ -31,17 +36,28 @@ def recognize_speech(use_microphone=True, audio_file_path=None):
                 print("No speech detected within the timeout.")
                 return None
     elif audio_file_path:
+<<<<<<< HEAD
         audio_data, samplerate = process_audio(audio_file_path)  # Use the utility
         if audio_data is None:
             return None  # Error already handled in process_audio
         audio = sr.AudioData(audio_data.tobytes(), samplerate, 2)
+=======
+        audio_data, samplerate = process_audio(audio_file_path)  # Use the utility to process the audio file
+        if audio_data is None:
+            return None  # Error already handled in process_audio
+        audio = sr.AudioData(audio_data.tobytes(), samplerate, 2)  # Convert to AudioData object
+>>>>>>> f86ad24
         print(f"Audio read from file: {audio_file_path}")
     else:
         print("Error:  Must specify either use_microphone=True or provide an audio_file_path.")
         return None
 
     try:
+<<<<<<< HEAD
         text = recognizer.recognize_google(audio)
+=======
+        text = recognizer.recognize_google(audio)  # Recognize using Google's Speech API
+>>>>>>> f86ad24
         print(f"You said: {text}")
         return text
     except sr.UnknownValueError:
@@ -54,6 +70,7 @@ def recognize_speech(use_microphone=True, audio_file_path=None):
         print(f"An unexpected error occurred: {e}")
         return None
 
+<<<<<<< HEAD
 
 
 if __name__ == "__main__":
@@ -62,3 +79,12 @@ if __name__ == "__main__":
     recognized_text = recognize_speech(use_microphone=False, audio_file_path="samples/input_audio.wav") # Use file.
     if recognized_text:
         print(f"Recognized Text: {recognized_text}")
+=======
+# Example usage in the script
+if __name__ == "__main__":
+    #  Example usage:
+    # recognized_text = recognize_speech()  # Use microphone
+    recognized_text = recognize_speech(use_microphone=False, audio_file_path=r"F:\VocaliQ-Lab\asr\Speech-Recognition-System\samples\Recording.wav")  # Use audio file
+    if recognized_text:
+        print(f"Recognized Text: {recognized_text}")
+>>>>>>> f86ad24

@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 (venv) PS F:\VocaliQ-Lab\asr\basic_asr> python main.py     
 Please say something...
 You said: hello am I audible hello hello hello hello
+=======
+1. Demo Output (main.py):
+
+"You said: hello am I audible hello hello hello hello"
+
+2. Notebook Output (demo.ipynb):
+
+"The notebook thinks you said: hello hello hello am I audible my name is Hardik sankla my audible"
+
+3. App Output (app.py):
+
+"hello hello hello am I audible my name is Hardik Sankraman audible"
+>>>>>>> f86ad24

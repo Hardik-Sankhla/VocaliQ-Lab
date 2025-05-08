@@ -63,9 +63,27 @@ This project implements a basic speech recognition system using Python and the S
     ```bash
     python src/asr.py
     ```
+<<<<<<< HEAD
 2.  Speak into your microphone when prompted, or ensure that  `samples/input_audio.wav` exists.
 3.  The transcribed text will be displayed in the console.
 
+=======
+2.  Speak into your microphone when prompted, or ensure that  `samples\Recording.wav` exists.
+3.  The transcribed text will be displayed in the console.
+
+4. Demo Script (demo/main.py):
+    ```
+    python demo/main.py
+    ```
+5. Notebook Demo (notebooks/demo.ipynb):
+- Open the Jupyter notebook notebooks/demo.ipynb.
+
+- The notebook runs ASR on a sample audio file and displays the transcribed text.
+6. Demo App (demo/app.py):
+```
+python demo/app.py
+```
+>>>>>>> f86ad24
 ## Code Structure
 
 * `README.md`: This file (project documentation).
