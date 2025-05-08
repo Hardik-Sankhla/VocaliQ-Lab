@@ -1,0 +1,15 @@
+SpeechRecognition
+PyAudio
+gradio
+soundfile
+pydub
+ffmpeg
+ffmpeg-python
+streamlit 
+<<<<<<< HEAD
+moviepy
+=======
+moviepy
+matplotlib
+ipywidgets
+>>>>>>> f86ad24
