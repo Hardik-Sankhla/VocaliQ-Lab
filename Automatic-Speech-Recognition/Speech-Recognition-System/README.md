@@ -1,9 +1,6 @@
 # Basic Speech Recognition System
 
-This project implements a basic speech recognition system using Python and the SpeechRecognition library.  It captures audio from the microphone or reads from an audio file and transcribes it into text using the Google Speech Recognition API.
-
---- 
-
+This project implements a basic speech recognition system using Python and the SpeechRecognition library. It captures audio from the microphone or reads from an audio file and transcribes it into text using the Google Speech Recognition API.
 
 ## Features
 
@@ -25,26 +22,28 @@ This project implements a basic speech recognition system using Python and the S
 
 ## Installation
 
-1.  Clone this repository:
+1. Clone this repository:
 
     ```bash
     git clone <repository_url>
     cd SpeechRecognitionSystem
     ```
-2.  Create a virtual environment (recommended):
+
+2. Create a virtual environment (recommended):
 
     ```bash
     python -m venv venv
     venv\Scripts\activate  # On Windows
     source venv/bin/activate # On macOS and Linux
     ```
-3.  Install the required packages:
+
+3. Install the required packages:
 
     ```bash
     pip install -r requirements.txt
     ```
-4.  Install PyAudio.  This often requires system-level dependencies.  See the PyAudio installation instructions for your operating system:
-    [https://pypi.org/project/PyAudio/](https://pypi.org/project/PyAudio/)
+
+4. Install PyAudio. This often requires system-level dependencies. See the PyAudio installation instructions for your operating system: [PyAudio Installation Instructions](https://pypi.org/project/PyAudio/)
 
     On Windows, you might need: `pip install PyAudio`
 
@@ -58,32 +57,32 @@ This project implements a basic speech recognition system using Python and the S
 
 ## Usage
 
-1.  Run the ASR script:
+1. Run the ASR script:
 
     ```bash
     python src/asr.py
     ```
-<<<<<<< HEAD
-2.  Speak into your microphone when prompted, or ensure that  `samples/input_audio.wav` exists.
-3.  The transcribed text will be displayed in the console.
 
-=======
-2.  Speak into your microphone when prompted, or ensure that  `samples\Recording.wav` exists.
-3.  The transcribed text will be displayed in the console.
+2. Speak into your microphone when prompted, or ensure that `samples/input_audio.wav` exists.
+3. The transcribed text will be displayed in the console.
 
 4. Demo Script (demo/main.py):
-    ```
+
+    ```bash
     python demo/main.py
     ```
-5. Notebook Demo (notebooks/demo.ipynb):
-- Open the Jupyter notebook notebooks/demo.ipynb.
 
-- The notebook runs ASR on a sample audio file and displays the transcribed text.
+5. Notebook Demo (notebooks/demo.ipynb):
+
+    - Open the Jupyter notebook `notebooks/demo.ipynb`.
+    - The notebook runs ASR on a sample audio file and displays the transcribed text.
+
 6. Demo App (demo/app.py):
-```
-python demo/app.py
-```
->>>>>>> f86ad24
+
+    ```bash
+    python demo/app.py
+    ```
+
 ## Code Structure
 
 * `README.md`: This file (project documentation).
@@ -94,33 +93,4 @@ python demo/app.py
 * `samples/input_audio.wav`: An example audio file.
 * `samples/expected_output.txt`: The expected transcription of the example audio file.
 * `demo/app.py`: (Optional) A Gradio/Streamlit application for a live demo.
-
-```
-SpeechRecognitionSystem/
-├── README.md
-├── requirements.txt
-├── src/
-│   ├── asr.py
-│   └── utils.py
-├── notebooks/
-│   └── demo.ipynb
-├── samples/
-│   ├── input_audio.wav
-│   └── expected_output.txt
-└── demo/
-    └── app.py
-```
-
-## Notes
-
-* Ensure your microphone is properly configured and accessible.
-* The Google Speech Recognition API requires an internet connection.
-* For more advanced usage, consider using other speech recognition APIs or models.
-
-
-
-
-
-
-
 
