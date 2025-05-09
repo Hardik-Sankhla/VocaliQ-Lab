@@ -27,27 +27,32 @@ EchoNotes is a smart, powerful voice memo management app that combines **cutting
 ## ⚙️ Installation & Run Locally
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/Hardik-Sankhla/EchoNotes.git
    cd EchoNotes
    ```
 
 2. **Install dependencies:**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 3. **Run the frontend app (Streamlit):**
+
    ```bash
    streamlit run frontend/app.py
    ```
 
 4. **Run the backend API (FastAPI):**
+
    ```bash
    uvicorn backend.api:app --reload
    ```
 
 > 🖥️ **Required Terminals:**  
+>
 > - Terminal 1: Start Streamlit frontend  
 > - Terminal 2: Start FastAPI backend  
 > - (Optional) Terminal 3: Start Ollama for Whisper/LLM support
@@ -77,10 +82,9 @@ EchoNotes/
 
 > A quick look at EchoNotes in action:
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Hardik-Sankhla/Markdown-Resources/main/Image/Demo-EchoNotes.png" alt="EchoNotes Demo">
-</div>
-
+</p>
 
 ---
 
